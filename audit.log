@@ -1,0 +1,114 @@
+TIME: '2022-02-16 23:22:40'
+
+ID: 1
+
+PID: 29953
+
+URL: 'https://collector.newrelic.com/agent_listener/invoke_raw_method'
+
+PARAMS: {'protocol_version': 17, 'license_key': None, 'marshal_format': 'json', 'method': 'preconnect'}
+
+HEADERS: {'accept-encoding': 'gzip,deflate', 'user-agent': 'NewRelic-PythonAgent/7.5.0.0 (Python 3.9.6 darwin)', 'connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Encoding': 'Identity'}
+
+DATA: []
+
+==============================================================================
+
+TIME: '2022-02-16 23:22:40'
+
+ID: 1
+
+PID: 29953
+
+STATUS: 401
+
+HEADERS: {'CF-RAY': '6dea84f51af82d3a-ORD',
+ 'Connection': 'keep-alive',
+ 'Content-Length': '2',
+ 'Content-Type': 'text/plain;charset=UTF-8',
+ 'Date': 'Wed, 16 Feb 2022 23:22:40 GMT',
+ 'Expect-CT': 'max-age=604800, '
+              'report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+ 'Server': 'cloudflare',
+ 'Vary': 'Accept-Encoding'}
+
+RESULT: {}
+
+==============================================================================
+
+TIME: '2022-02-16 23:22:55'
+
+ID: 2
+
+PID: 29953
+
+URL: 'https://collector.newrelic.com/agent_listener/invoke_raw_method'
+
+PARAMS: {'protocol_version': 17, 'license_key': None, 'marshal_format': 'json', 'method': 'preconnect'}
+
+HEADERS: {'accept-encoding': 'gzip,deflate', 'user-agent': 'NewRelic-PythonAgent/7.5.0.0 (Python 3.9.6 darwin)', 'connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Encoding': 'Identity'}
+
+DATA: []
+
+==============================================================================
+
+TIME: '2022-02-16 23:22:56'
+
+ID: 2
+
+PID: 29953
+
+STATUS: 401
+
+HEADERS: {'CF-RAY': '6dea85552d6486f9-ORD',
+ 'Connection': 'keep-alive',
+ 'Content-Length': '2',
+ 'Content-Type': 'text/plain;charset=UTF-8',
+ 'Date': 'Wed, 16 Feb 2022 23:22:56 GMT',
+ 'Expect-CT': 'max-age=604800, '
+              'report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+ 'Server': 'cloudflare',
+ 'Vary': 'Accept-Encoding'}
+
+RESULT: {}
+
+==============================================================================
+
+TIME: '2022-02-16 23:23:11'
+
+ID: 3
+
+PID: 29953
+
+URL: 'https://collector.newrelic.com/agent_listener/invoke_raw_method'
+
+PARAMS: {'protocol_version': 17, 'license_key': None, 'marshal_format': 'json', 'method': 'preconnect'}
+
+HEADERS: {'accept-encoding': 'gzip,deflate', 'user-agent': 'NewRelic-PythonAgent/7.5.0.0 (Python 3.9.6 darwin)', 'connection': 'keep-alive', 'Content-Type': 'application/json', 'Content-Encoding': 'Identity'}
+
+DATA: []
+
+==============================================================================
+
+TIME: '2022-02-16 23:23:11'
+
+ID: 3
+
+PID: 29953
+
+STATUS: 401
+
+HEADERS: {'CF-RAY': '6dea85b53ee12940-ORD',
+ 'Connection': 'keep-alive',
+ 'Content-Length': '2',
+ 'Content-Type': 'text/plain;charset=UTF-8',
+ 'Date': 'Wed, 16 Feb 2022 23:23:11 GMT',
+ 'Expect-CT': 'max-age=604800, '
+              'report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+ 'Server': 'cloudflare',
+ 'Vary': 'Accept-Encoding'}
+
+RESULT: {}
+
+==============================================================================
+
